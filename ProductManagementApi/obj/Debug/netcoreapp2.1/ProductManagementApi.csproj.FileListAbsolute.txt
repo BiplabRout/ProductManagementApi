@@ -1,0 +1,17 @@
+D:\MyCode\ProductManagementApi\ProductManagementApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\MyCode\ProductManagementApi\ProductManagementApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\MyCode\ProductManagementApi\ProductManagementApi\bin\Debug\netcoreapp2.1\ProductManagementApi.deps.json
+D:\MyCode\ProductManagementApi\ProductManagementApi\bin\Debug\netcoreapp2.1\ProductManagementApi.runtimeconfig.json
+D:\MyCode\ProductManagementApi\ProductManagementApi\bin\Debug\netcoreapp2.1\ProductManagementApi.runtimeconfig.dev.json
+D:\MyCode\ProductManagementApi\ProductManagementApi\bin\Debug\netcoreapp2.1\ProductManagementApi.dll
+D:\MyCode\ProductManagementApi\ProductManagementApi\bin\Debug\netcoreapp2.1\ProductManagementApi.pdb
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.csprojAssemblyReference.cache
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.AssemblyInfoInputs.cache
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.AssemblyInfo.cs
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.csproj.CoreCompileInputs.cache
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.RazorAssemblyInfo.cache
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.RazorAssemblyInfo.cs
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.RazorTargetAssemblyInfo.cache
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.dll
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.pdb
+D:\MyCode\ProductManagementApi\ProductManagementApi\obj\Debug\netcoreapp2.1\ProductManagementApi.genruntimeconfig.cache
